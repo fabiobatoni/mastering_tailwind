@@ -14,3 +14,5 @@ export default function Home() {
 /* Tailwind possui breakpoints ja estabelecidos:
   - Responsive Design
 */
+
+/* CUIDADO : Evitar valores arbitrarios, valores que fogem do padrao do tailwind */
